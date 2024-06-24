@@ -13,7 +13,7 @@ import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
 import pageObjects.SearchPage;
 import pageObjects.ShoppingCartPage;
-import testBase.BaseClass;
+import testbase.BaseClass;
 
 public class TC_006_EndToEndTest extends BaseClass {
 	@Test(groups= {"Master"})
@@ -69,14 +69,14 @@ public class TC_006_EndToEndTest extends BaseClass {
 	
 	//search & add product to cart
 	System.out.println("search & add product to cart...............");
-	hp.enterProductName(p.getProperty("searchProductName"));
+	hp.enterProductName(prop.getProperty("searchProductName"));
 	hp.clickSearch();
 	
 	SearchPage sp=new SearchPage(driver);
 	
-	if(sp.isProductExist(p.getProperty("searchProductName")))
+	if(sp.isProductExist(prop.getProperty("searchProductName")))
 	{
-		sp.selectProduct(p.getProperty("searchProductName"));
+		sp.selectProduct(prop.getProperty("searchProductName"));
 		sp.setQuantity("2");
 		sp.addToCart();
 		

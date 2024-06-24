@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
 import pageObjects.SearchPage;
-import testBase.BaseClass;
+import testbase.BaseClass;
 
 
 public class TC_005_AddToCartPageTest extends BaseClass {

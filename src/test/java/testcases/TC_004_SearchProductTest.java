@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
 import pageObjects.SearchPage;
-import testBase.BaseClass;
+import testbase.BaseClass;
 
 public class TC_004_SearchProductTest extends BaseClass {
 
@@ -14,14 +14,14 @@ public class TC_004_SearchProductTest extends BaseClass {
 		logger.info(" Starting TC_004_SearchProductTest ");
 
 		try {
-			
+
 			HomePage hm=new HomePage(driver);
-			
+
 			//hm.enterProductName("iPhone");
 			hm.enterProductName("mac");
-			
+
 			hm.clickSearch();
-			
+
 			SearchPage sp=new SearchPage(driver);
 			sp.isProductExist("MacBook");
 
