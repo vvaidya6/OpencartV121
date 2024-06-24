@@ -77,8 +77,8 @@ public class BaseClass {
                     return;
             }
 
-            //driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities);
-            driver = new RemoteWebDriver(new URL("http://localhost:8080"), capabilities);
+            driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), capabilities);
+            //driver = new RemoteWebDriver(new URL("http://localhost:8080"), capabilities);
         }
 
         //local execution
