@@ -1,0 +1,52 @@
+2024-06-22 16:11:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-22 16:11:45 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-22 16:11:45 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2024-06-22 16:11:46 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2024-06-22 16:11:46 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2024-06-22 16:11:47 INFO  TC001_AccountRegistrationTest:38 - Validating expected message..
+2024-06-22 16:11:47 INFO  TC001_AccountRegistrationTest:42 - Test passed
+2024-06-22 16:11:47 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2024-06-22 16:12:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-22 16:12:27 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-22 16:12:27 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2024-06-22 16:12:27 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2024-06-22 16:12:27 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2024-06-22 16:12:29 INFO  TC001_AccountRegistrationTest:38 - Validating expected message..
+2024-06-22 16:12:29 INFO  TC001_AccountRegistrationTest:42 - Test passed
+2024-06-22 16:12:29 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2024-06-22 16:12:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2024-06-22 16:13:01 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-22 16:13:01 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2024-06-22 16:13:02 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2024-06-22 16:13:02 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2024-06-22 16:13:04 INFO  TC001_AccountRegistrationTest:38 - Validating expected message..
+2024-06-22 16:13:04 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2024-06-22 16:29:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpencartV121\crossbrowsertestng.xml
+
+2024-06-22 16:29:35 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-22 16:29:35 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2024-06-22 16:29:36 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2024-06-22 16:29:36 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2024-06-22 16:29:37 INFO  TC001_AccountRegistrationTest:38 - Validating expected message..
+2024-06-22 16:29:38 INFO  TC001_AccountRegistrationTest:42 - Test passed
+2024-06-22 16:29:38 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2024-06-22 16:29:40 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-22 16:29:41 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2024-06-22 16:29:41 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Link.. 
+2024-06-22 16:29:41 INFO  TC001_AccountRegistrationTest:26 - Providing customer details...
+2024-06-22 16:29:43 INFO  TC001_AccountRegistrationTest:38 - Validating expected message..
+2024-06-22 16:29:43 INFO  TC001_AccountRegistrationTest:42 - Test passed
+2024-06-22 16:29:43 INFO  TC001_AccountRegistrationTest:48 - ***** Finished TC001_AccountRegistrationTest *****
+2024-06-22 16:29:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpencartV121\crossbrowsertestng.xml
+
+2024-06-22 16:29:59 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-06-22 16:29:59 INFO  TC001_AccountRegistrationTest:20 - Clicked on MyAccount Link.. 
+2024-06-22 16:29:59 INFO  TC001_AccountRegistrationTest:15 - ***** Startin
